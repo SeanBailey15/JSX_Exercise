@@ -1,0 +1,20 @@
+.tweet {
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  background-color: rgb(0, 76, 121);
+  margin-bottom: 1rem;
+}
+
+.msg {
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  background-color: lightgrey;
+  font-size: large;
+}
+
+h4 {
+  font-size: larger;
+  color: white;
+}
